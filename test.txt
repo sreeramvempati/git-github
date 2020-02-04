@@ -1,1 +1,18 @@
 This is my first text file to clone from local resipotory to GIT-HUB
+
+
+
+
+
+
+
+add two number
+#include<stdio.h>
+int main()
+{
+int a,b,c;
+a=10;
+b=12;
+c=a+b;
+printf("%d\n",c);
+}
